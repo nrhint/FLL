@@ -1,4 +1,7 @@
 This is the log file of what happens.  Append at the top.
 
+I am exporting the GoToLander.  It works in light testing.
+
+
 Created and exported turnExact to MyBlocks/UseThese.  Results from 100 
 90 deg turns were -4 deg off.
